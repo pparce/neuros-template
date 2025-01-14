@@ -1,0 +1,24 @@
+---
+const title = Astro.props.title || "";
+---
+
+<div class="top-page-wrapper -top-8">
+    <div class="page-title-container">
+        <div class="page-title-bg"></div>
+        <div class="page-title-row">
+            <div class="page-title-wrapper">
+                <div class="page-title-box">
+                    <img loading="lazy" class="page-title-box-icon retina-logo" width="43" height="23" src="wp-content/uploads/2025/01/page-title-icon-5.png" alt="Page Title icon" />
+                    <h1 class="page-title">{title}</h1>
+                </div>
+            </div>
+        </div>
+        <div class="breadcrumbs-wrapper text-white">
+            <nav class="breadcrumbs">
+                <a href="./../index.html">Home</a>
+                <span class="delimiter"></span>
+                <span class="current">{title}</span>
+            </nav>
+        </div>
+    </div>
+</div>

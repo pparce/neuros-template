@@ -1,0 +1,204 @@
+
+---Archivos descargados---
+Los archivos de importación para Neuros ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 86400
+Información de archivos:
+URL del sitio = http://localhost/wordpress
+Archivo de datos = C:\xampp\htdocs\wordpress/wp-content/uploads/2025/01/demo-content-import-file_2025-01-09__07-44-19.xml
+Archivo de widget = C:\xampp\htdocs\wordpress/wp-content/uploads/2025/01/demo-widgets-import-file_2025-01-09__07-44-19.json
+Archivo del personalizador = C:\xampp\htdocs\wordpress/wp-content/uploads/2025/01/demo-customizer-import-file_2025-01-09__07-44-19.dat
+Archivos de Redux:
+ ¡no definido!
+
+---ocdi/before_content_import---
+
+
+---ocdi/before_widgets_import---
+
+
+---Importando los widgets---
+Page Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Post Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Career Sidebar : 
+
+Bloque - Sin título - Importado
+
+Service Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Case Study Sidebar : 
+
+Bloque - Sin título - Importado
+
+FAQ Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Side Panel Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Menu Sidebar : 
+
+Bloque - Sin título - Importado
+
+Footer Sidebar (Style 1) : 
+
+Bloque - Sin título - Importado
+Navigation Menu (Neuros Theme) - Company - Importado
+Navigation Menu (Neuros Theme) - Services - Importado
+
+Footer Sidebar (Style 2) : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Footer Sidebar (Style 3) : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Navigation Menu (Neuros Theme) - Company - Importado
+Navigation Menu (Neuros Theme) - Services - Importado
+
+Footer Sidebar (Style 4) : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Navigation Menu (Neuros Theme) - Company - Importado
+Navigation Menu (Neuros Theme) - Services - Importado
+
+sidebar-woocommerce : La barra lateral no existe en el tema (moviendo los widgets a inactivos)
+
+Bloque - Sin título - Importado a inactivo
+Bloque - Sin título - Importado a inactivo
+Bloque - Sin título - Importado a inactivo
+Bloque - Sin título - Importado a inactivo
+
+Widgets de Max Mega Menu : 
+
+Imagen - Sin título - Importado
+Texto - Dark Version - Importado
+
+
+
+---ocdi/before_widgets_import---
+
+
+---Importando los widgets---
+Page Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Post Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Career Sidebar : 
+
+Bloque - Sin título - Importado
+
+Service Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Case Study Sidebar : 
+
+Bloque - Sin título - Importado
+
+FAQ Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Side Panel Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Menu Sidebar : 
+
+Bloque - Sin título - Importado
+
+Footer Sidebar (Style 1) : 
+
+Bloque - Sin título - Importado
+Navigation Menu (Neuros Theme) - Company - Importado
+Navigation Menu (Neuros Theme) - Services - Importado
+
+Footer Sidebar (Style 2) : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Footer Sidebar (Style 3) : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Navigation Menu (Neuros Theme) - Company - Importado
+Navigation Menu (Neuros Theme) - Services - Importado
+
+Footer Sidebar (Style 4) : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Navigation Menu (Neuros Theme) - Company - Importado
+Navigation Menu (Neuros Theme) - Services - Importado
+
+Sidebar WooCommerce : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Widgets de Max Mega Menu : 
+
+Imagen - Sin título - Importado
+Texto - Dark Version - Importado
+
+
+
+---Importación de los ajustes del personalizador---
+¡Importación de los ajustes del personalizador finalizado!
+
+---ocdi/after_import---
+

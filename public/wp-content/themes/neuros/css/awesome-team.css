@@ -1,0 +1,149 @@
+.content-wrapper h1,
+.content-wrapper h2,
+.content-wrapper h3,
+.content-wrapper h4,
+.content-wrapper h5,
+.wpforms-form .wpforms-title,
+.content-wrapper h6,
+.content-wrapper a:hover,
+body .content-wrapper blockquote,
+body .neuros_comments__item-text blockquote,
+.content-wrapper .post-title,
+.content-wrapper .post-title a,
+.post-comment-author,
+.select2-container--default .select2-results__option.select2-results__option--highlighted[aria-selected],
+.select2-container--default .select2-results__option.select2-results__option--highlighted[data-selected],
+.content-wrapper .select2-container--default .select2-results__option.select2-results__option--highlighted[aria-selected],
+.content-wrapper .select2-container--default .select2-results__option.select2-results__option--highlighted[data-selected],
+.widget_search .search-form .search-form-icon,
+.widget_categories ul li>a,
+body .content-wrapper ul.wp-block-categories li>a,
+.widget_categories ul li .widget-archive-trigger,
+.widget_categories ul li .block-archive-trigger,
+body .content-wrapper ul.wp-block-categories li .widget-archive-trigger,
+body .content-wrapper ul.wp-block-categories li .block-archive-trigger,
+.widget_archive ul li>a,
+.wp-block-archives li>a,
+body .content-wrapper .wp-block-archives li>a,
+.widget_recent_entries ul li a,
+.content-wrapper .wp-block-latest-posts li a,
+.widget_recent_comments ul .recentcomments a,
+.content-wrapper .wp-block-latest-comments li a,
+.widget_pages .widget-wrapper>ul li>a,
+.widget_meta ul li>a,
+.wp-block-page-list li a,
+.sidebar .widget .widget-title a,
+.widget_rss cite,
+.widget_rss ul a.rsswidget,
+.wp-block-rss .wp-block-rss__item-title a,
+.wp-block-rss .wp-block-rss__item-author,
+.widget_nav_menu ul li .widget-menu-trigger,
+.widget_neuros_nav_menu_widget ul li .widget-menu-trigger,
+.widget_nav_menu ul li a,
+.widget_neuros_nav_menu_widget ul li a,
+.result-box .result-box-title,
+.results-wrapper ul li,
+.portfolio-post-meta .portfolio-post-meta-label,
+.post-navigation .post-navigation-title a,
+.post-navigation .archive-icon-link .archive-icon,
+.team-experience-item-title,
+.team-item .post-title,
+.project-item-wrapper .post-title,
+.project-post-meta .project-post-meta-label,
+.vacancy-salary .vacancy-salary-value,
+.header-icon.login-logout a.link-login,
+.header-icon.login-logout a.link-logout,
+.help-item .help-item-title,
+.service-item .service-post-title a,
+.neuros-price-item-widget .price-item .price-item-container,
+.neuros-price-item-widget .price-item .price-item-title,
+.elementor-counter .elementor-counter-title,
+.neuros-testimonial-carousel-widget .testimonial-carousel-wrapper .author-info,
+.error-404-title,
+.team-experience-item-period,
+.single-product.woocommerce div.product .product_meta .product_meta_item a,
+.elementor-widget-image-box .elementor-image-box-wrapper .elementor-image-box-content .elementor-image-box-title,
+.elementor-widget-neuros_vertical_text .vertical-text,
+.neuros-image-slider-widget .slider-item-title,
+.elementor-widget-progress .elementor-widget-container .elementor-title,
+.elementor-widget-progress .elementor-progress-bar,
+.swiper-container .elementor-swiper-button i,
+.wp-block-search .wp-block-search__label,
+.wp-block-search.wp-block-search__button-inside .wp-block-search__inside-wrapper .wp-block-search__button.has-icon,
+.elementor-widget-neuros_custom_menu ul li a,
+.content-wrapper .wp-block-loginout,
+.content-wrapper .wp-block-loginout a,
+.sidebar .shop-hidden-sidebar-close,
+.widget .wp-block-list li:before,
+.widget .wp-block-list li:hover a,
+.standard-blog-item-wrapper .blog-item .post-categories .post-category-item:hover,
+.grid-blog-item-wrapper .blog-item .post-categories .post-category-item:hover,
+.team-info-additional .team-achievements-box .team-achievements-box-title,
+.neuros-heading .neuros-subheading,
+.owl-nav button:not(.customize-partial-edit-shortcut-button)[class*="owl-"],
+.owl-nav button:not(.customize-partial-edit-shortcut-button)[class*="owl-"].disabled:hover,
+.project-listing-wrapper.text-position-inside .project-item-wrapper .post-title,
+.content-wrapper .wp-block-social-links.is-style-logos-only:not(.has-icon-color) .wp-block-social-link svg,
+.block-editor-block-list__layout .wp-block-social-links.is-style-logos-only:not(.has-icon-color) .wp-block-social-link svg,
+.archive-listing-wrapper.list-listing .list-item-wrapper .post-meta-item-author a:hover,
+.elementor-widget-image .hovered-text .hovered-text-subtitle,
+.elementor-widget-image .hovered-text .hovered-text-title,
+.neuros_tabs_widget .neuros_tabs_titles_container .neuros_tab_title_item a {
+    color: #111111;
+}
+
+h2,
+.editor-styles-wrapper .block-editor-block-list__layout h2,
+body .elementor-widget-heading h2.elementor-heading-title {
+    letter-spacing: -0.05em;
+    word-spacing: 0px;
+    font-weight: 400;
+}
+
+@media only screen and (min-width: 768px) {
+
+    h2,
+    .editor-styles-wrapper .block-editor-block-list__layout h2,
+    body .elementor-widget-heading h2.elementor-heading-title {
+        font-size: 35px;
+        line-height: 1.16666em;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+
+    h2,
+    .editor-styles-wrapper .block-editor-block-list__layout h2,
+    body .elementor-widget-heading h2.elementor-heading-title {
+        font-size: 60px;
+        line-height: 1.16666em;
+    }
+}
+
+h2,
+.editor-styles-wrapper .block-editor-block-list__layout h2,
+body .elementor-widget-heading h2.elementor-heading-title {
+    letter-spacing: -0.05em;
+    word-spacing: 0px;
+    font-weight: 400;
+}
+
+@media only screen and (min-width: 768px) {
+
+    h2,
+    .editor-styles-wrapper .block-editor-block-list__layout h2,
+    body .elementor-widget-heading h2.elementor-heading-title {
+        font-size: 35px;
+        line-height: 1.16666em;
+    }
+}
+
+@media only screen and (min-width: 992px) {
+
+    h2,
+    .editor-styles-wrapper .block-editor-block-list__layout h2,
+    body .elementor-widget-heading h2.elementor-heading-title {
+        font-size: 60px;
+        line-height: 1.16666em;
+    }
+}

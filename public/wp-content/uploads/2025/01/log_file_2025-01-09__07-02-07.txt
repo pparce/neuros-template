@@ -1,0 +1,701 @@
+
+---Archivos descargados---
+Los archivos de importación para Neuros Dark ¡han sido descargados correctamente!
+Tiempo de ejecución máximo inicial = 86400
+Información de archivos:
+URL del sitio = http://localhost/wordpress
+Archivo de datos = C:\xampp\htdocs\wordpress/wp-content/uploads/2025/01/demo-content-import-file_2025-01-09__07-02-07.xml
+Archivo de widget = C:\xampp\htdocs\wordpress/wp-content/uploads/2025/01/demo-widgets-import-file_2025-01-09__07-02-07.json
+Archivo del personalizador = C:\xampp\htdocs\wordpress/wp-content/uploads/2025/01/demo-customizer-import-file_2025-01-09__07-02-07.dat
+Archivos de Redux:
+ ¡no definido!
+
+---ocdi/before_content_import---
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+------
+¡Nueva llamada AJAX!
+[WARNING] Failed to import pa_color Black
+[WARNING] Failed to import pa_color Blue
+[WARNING] Failed to import product_cat Clothes
+[WARNING] Failed to import product_tag clothes
+[WARNING] Failed to import product_cat Dresses &amp; skirts
+[WARNING] Failed to import pa_size EU40
+[WARNING] Failed to import pa_size EU41
+[WARNING] Failed to import pa_size EU42
+[WARNING] Failed to import pa_size EU42.5
+[WARNING] Failed to import product_cat Evening сostumes
+[WARNING] Failed to import product_cat Footwear
+[WARNING] Failed to import pa_color Gray
+[WARNING] Failed to import pa_color Green
+[WARNING] Failed to import product_tag hoody
+[WARNING] Failed to import pa_size Large
+[WARNING] Failed to import pa_size Medium
+[WARNING] Failed to import product_tag red
+[WARNING] Failed to import pa_color Red
+[WARNING] Failed to import pa_size Small
+[WARNING] Failed to import product_cat Sport sneakers
+[WARNING] Failed to import product_cat T-shirts
+[WARNING] Failed to import pa_color White
+[WARNING] Failed to import pa_color Yellow
+
+
+---ocdi/before_widgets_import---
+
+
+---Importando los widgets---
+Page Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Post Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Career Sidebar : 
+
+Bloque - Sin título - Importado
+
+Service Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Case Study Sidebar : 
+
+Bloque - Sin título - Importado
+
+FAQ Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Side Panel Sidebar : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Menu Sidebar : 
+
+Bloque - Sin título - Importado
+
+Footer Sidebar (Style 1) : 
+
+Bloque - Sin título - Importado
+Navigation Menu (Neuros Theme) - Company - Importado
+Navigation Menu (Neuros Theme) - Services - Importado
+
+Footer Sidebar (Style 2) : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+
+Footer Sidebar (Style 3) : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Navigation Menu (Neuros Theme) - Company - Importado
+Navigation Menu (Neuros Theme) - Services - Importado
+
+Footer Sidebar (Style 4) : 
+
+Bloque - Sin título - Importado
+Bloque - Sin título - Importado
+Navigation Menu (Neuros Theme) - Company - Importado
+Navigation Menu (Neuros Theme) - Services - Importado
+
+sidebar-woocommerce : La barra lateral no existe en el tema (moviendo los widgets a inactivos)
+
+Bloque - Sin título - Importado a inactivo
+Bloque - Sin título - Importado a inactivo
+Bloque - Sin título - Importado a inactivo
+Bloque - Sin título - Importado a inactivo
+
+
+
+---Importación de los ajustes del personalizador---
+¡Importación de los ajustes del personalizador finalizado!
+
+---ocdi/after_import---
+
