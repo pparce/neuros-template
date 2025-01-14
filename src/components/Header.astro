@@ -1,0 +1,345 @@
+---
+const currentPath = Astro.url.pathname;
+const menu = [
+    { name: "Home", href: "/" },
+    { name: "Proyectos", href: "/projects" },
+    { name: "Servicios", href: "/services" },
+    { name: "Acerca de", href: "/about" },
+    { name: "Equipo", href: "/team" },
+];
+---
+
+<!-- Mobile Menu Panel -->
+<div class="mobile-header-menu-container">
+    <div class="mobile-header-row">
+        <!-- Icons Block -->
+        <div class="header-icons-container">
+            <!-- <div class="header-icon search-trigger"><span class="search-trigger-icon"></span></div> -->
+            <div class="header-icon menu-close"><span class="menu-close-icon"></span></div>
+        </div>
+    </div>
+    <!-- Menu Block -->
+    <br />
+    <div id="mega-menu-wrap-main" class="mega-menu-wrap">
+        <div class="mega-menu-toggle">
+            <div class="mega-toggle-blocks-left"></div>
+            <div class="mega-toggle-blocks-center"></div>
+            <div class="mega-toggle-blocks-right">
+                <div class="mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0" id="mega-toggle-block-0">
+                    <button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                        <span class="mega-toggle-animated-box">
+                            <span class="mega-toggle-animated-inner"></span>
+                        </span>
+                    </button>
+                </div>
+            </div>
+        </div>
+        <ul
+            id="mega-menu-main"
+            class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js"
+            data-event="hover"
+            data-effect="fade_up"
+            data-effect-speed="200"
+            data-effect-mobile="disabled"
+            data-effect-speed-mobile="0"
+            data-mobile-force-width="false"
+            data-second-click="go"
+            data-document-click="collapse"
+            data-vertical-behaviour="standard"
+            data-breakpoint="1364"
+            data-unbind="true"
+            data-mobile-state="collapse_all"
+            data-mobile-direction="vertical"
+            data-hover-intent-timeout="300"
+            data-hover-intent-interval="100"
+        >
+        {
+            menu.map((item) => (
+                <li
+                    class={`mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-23159 ${item.href === currentPath ? "mega-current-menu-ancestor" : ""}`}
+                    id="mega-menu-item-23159"
+                >
+                    <a class="mega-menu-link !text-center !text-xl" href={item.href} tabindex="0">
+                        {item.name}
+                    </a>
+                </li>
+            ))
+        }
+            
+            <div class="header-mobile-contacts">
+                <div class="contact-items-title">Contacts</div>
+                <div class="contact-item contact-item-phone"><a href="tel:+18005291037">+1 800 529 10 37</a></div>
+                <div class="contact-item contact-item-email"><a href="mailto:neuros@mail.co">neuros@mail.co</a></div>
+            </div>
+
+            <div class="header-mobile-socials">
+                <ul class="mobile-menu-socials wrapper-socials">
+                    <li><a href="https://www.facebook.com/" target="_blank" class="fab fa-facebook-f" title="Facebook"></a></li>
+                    <li><a href="https://twitter.com/" target="_blank" class="fab fa-x-twitter" title="Twitter"></a></li>
+                    <li><a href="https://www.linkedin.com/" target="_blank" class="fab fa-linkedin-in" title="LinkedIn"></a></li>
+                    <li><a href="https://www.youtube.com/" target="_blank" class="fab fa-youtube" title="Youtube"></a></li>
+                </ul>
+            </div>
+
+            <div class="header-mobile-button"><a class="neuros-button">Get in touch<span class="button-inner"></span></a></div>
+        </ul>
+    </div>
+</div>
+
+<!-- Side Panel -->
+<div class="slide-sidebar-wrapper slide-sidebar-position-left">
+    <div class="slide-sidebar-close">Close</div>
+    <div class="slide-sidebar">
+        <div class="sidebar-logo-container">
+            <div class="logo retina-logo"><a class="logo-link" href="./../index.html"><img width="47" height="25" src="wp-content/uploads/2025/01/logo-dark-7.png" alt="neuros" /></a></div>
+        </div>
+        <div class="slide-sidebar-content">
+            <div id="block-242" class="widget side-widget widget_block">
+                <div class="widget-wrapper side-widget-wrapper">
+                    <div class="wp-block-group">
+                        <div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+                            <p style="font-size:12px;font-style:normal;font-weight:700;text-transform:uppercase">Contacts</p>
+                            <p style="font-size:18px">USA, New York - 1060<br />Str. First Avenue 1</p>
+
+                            <p style="font-size:18px"><a href="tel:800 100 975 20 34">800 100 975 20 34</a><br /><a href="tel:+ (123) 1800-234-5678">+ (123) 1800-234-5678</a></p>
+
+                            <p style="font-size:18px;text-decoration:underline"><a href="mailto:neuros@mail.co">neuros@mail.co</a></p>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div id="block-243" class="widget side-widget widget_block">
+                <div class="widget-wrapper side-widget-wrapper">
+                    <div class="wp-block-group">
+                        <div class="wp-block-group__inner-container is-layout-constrained wp-block-group-is-layout-constrained">
+                            <div style="height:50px" aria-hidden="true" class="wp-block-spacer"></div>
+
+                            <div class="wp-block-buttons is-layout-flex wp-block-buttons-is-layout-flex">
+                                <div class="wp-block-button has-custom-font-size has-medium-font-size" style="font-style:normal;font-weight:600">
+                                    <a class="wp-block-button__link wp-element-button" target="_blank" rel="noreferrer noopener">Get in touch<span class="button-inner"></span></a>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <ul class="wrapper-socials">
+            <li><a href="https://www.facebook.com/" target="_blank" class="fab fa-facebook-f" title="Facebook"></a></li>
+            <li><a href="https://twitter.com/" target="_blank" class="fab fa-x-twitter" title="Twitter"></a></li>
+            <li><a href="https://www.linkedin.com/" target="_blank" class="fab fa-linkedin-in" title="LinkedIn"></a></li>
+            <li><a href="https://www.youtube.com/" target="_blank" class="fab fa-youtube" title="Youtube"></a></li>
+        </ul>
+    </div>
+    <span class="slide-sidebar-gradient"></span>
+</div>
+
+<div class="top-page-wrapper header-type-1 top-page-wrapper-br-off no-page-title header-position-above">
+    <div class="header-wrapper header-position-above">
+        <!-- Top Bar -->
+        <!-- Top Bar -->
+        <div class="top-bar">
+            <div class="top-bar-row">
+                <div class="top-bar-column">
+                    <div class="top-bar-contacts wrapper-contacts">
+                        <div class="contact-item contact-item-phone">
+                            <span class="contact-item-title">Call us:&nbsp;</span><a href="tel:+18005291037">+1 800 529 10 37</a>
+                        </div>
+                        <div class="contact-item contact-item-email">
+                            <span class="contact-item-title">Email:&nbsp;</span><a href="mailto:neuros@mail.co">neuros@mail.co</a>
+                        </div>
+                    </div>
+                </div>
+                <div class="top-bar-column">
+                    <div class="top-bar-info wrapper-info">
+                        <ul class="top-bar-socials wrapper-socials">
+                            <li><a href="https://www.facebook.com/" target="_blank" class="fab fa-facebook-f" title="Facebook"></a></li>
+                            <li><a href="https://twitter.com/" target="_blank" class="fab fa-x-twitter" title="Twitter"></a></li>
+                            <li><a href="https://www.linkedin.com/" target="_blank" class="fab fa-linkedin-in" title="LinkedIn"></a></li>
+                            <li><a href="https://www.youtube.com/" target="_blank" class="fab fa-youtube" title="Youtube"></a></li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile Sticky Header -->
+        <div class="mobile-header sticky-header mobile-header-type-1">
+            <div class="mobile-header-row">
+                <!-- Logo Block -->
+                <div class="logo-container">
+                    <div class="logo retina-logo"><a class="logo-link" href="./../index.html"><img width="34" height="18" src="wp-content/uploads/2025/01/logo-mobile-4.png" alt="neuros" /></a></div>
+                </div>
+                <!-- Icons Block -->
+                <div class="header-icons-container">
+                    <div class="header-icon menu-trigger">
+                        <span class="menu-trigger-icon">
+                            <span class="hamburger">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Mobile Header -->
+        <div class="mobile-header mobile-header-position-above sticky-header-on mobile-header-type-1">
+            <div class="mobile-header-row">
+                <!-- Logo Block -->
+                <div class="logo-container">
+                    <div class="logo retina-logo"><a class="logo-link" href="./../index.html"><img width="34" height="18" src="wp-content/uploads/2025/01/logo-mobile-4.png" alt="neuros" /></a></div>
+                </div>
+                <!-- Icons Block -->
+                <div class="header-icons-container">
+                    <div class="header-icon menu-trigger">
+                        <span class="menu-trigger-icon">
+                            <span class="hamburger">
+                                <span></span>
+                                <span></span>
+                                <span></span>
+                            </span>
+                        </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <!-- Sticky Header -->
+        <header class="header sticky-header header-type-1 header-menu-style-standard">
+            <div class="header-row">
+                <!-- Left Info Block -->
+                <div class="header-icons-container">
+                    <div class="header-icon dropdown-trigger">
+                        <div class="dropdown-trigger-item"></div>
+                    </div>
+                    <div class="logo-container">
+                        <div class="logo retina-logo">
+                            <a class="logo-link" href="./../index.html"><img loading="lazy" width="47" height="25" src="wp-content/uploads/2025/01/Logo-4.png" alt="neuros" /></a>
+                        </div>
+                    </div>
+                </div>
+                <div id="mega-menu-wrap-main" class="mega-menu-wrap">
+                    <div class="mega-menu-toggle">
+                        <div class="mega-toggle-blocks-left"></div>
+                        <div class="mega-toggle-blocks-center"></div>
+                        <div class="mega-toggle-blocks-right">
+                            <div class="mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0" id="mega-toggle-block-0">
+                                <button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                                    <span class="mega-toggle-animated-box">
+                                        <span class="mega-toggle-animated-inner"></span>
+                                    </span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <ul
+                        id="mega-menu-main"
+                        class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js"
+                        data-event="hover"
+                        data-effect="fade_up"
+                        data-effect-speed="200"
+                        data-effect-mobile="disabled"
+                        data-effect-speed-mobile="0"
+                        data-mobile-force-width="false"
+                        data-second-click="go"
+                        data-document-click="collapse"
+                        data-vertical-behaviour="standard"
+                        data-breakpoint="1364"
+                        data-unbind="true"
+                        data-mobile-state="collapse_all"
+                        data-mobile-direction="vertical"
+                        data-hover-intent-timeout="300"
+                        data-hover-intent-interval="100"
+                    >
+                        {
+                            menu.map((item) => (
+                                <li
+                                    class={`mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-23159 ${item.href === currentPath ? "mega-current-menu-ancestor" : ""}`}
+                                    id="mega-menu-item-23159"
+                                >
+                                    <a class="mega-menu-link" href={item.href} tabindex="0">
+                                        {item.name}
+                                    </a>
+                                </li>
+                            ))
+                        }
+                    </ul>
+                </div>
+                <!-- Right Info Block -->
+                <div class="header-icons-container">
+                    <!-- <div class="header-icon search-trigger"><span class="search-trigger-icon"></span></div> -->
+                    <div class="header-icon header-button-container"><a class="neuros-button">Contactar<span class="button-inner"></span></a></div>
+                </div>
+            </div>
+        </header>
+        <!-- Header -->
+        <header class="header header-type-1 header-position-above sticky-header-on header-menu-style-standard">
+            <div class="header-row">
+                <!-- Left Info Block -->
+                <div class="header-icons-container">
+                    <div class="header-icon dropdown-trigger">
+                        <div class="dropdown-trigger-item"></div>
+                    </div>
+                    <div class="logo-container">
+                        <div class="logo retina-logo">
+                            <a class="logo-link" href="./../index.html"><img loading="lazy" width="47" height="25" src="wp-content/uploads/2025/01/Logo-4.png" alt="neuros" /></a>
+                        </div>
+                    </div>
+                </div>
+                <!-- Menu Block -->
+                <div id="mega-menu-wrap-main" class="mega-menu-wrap">
+                    <div class="mega-menu-toggle">
+                        <div class="mega-toggle-blocks-left"></div>
+                        <div class="mega-toggle-blocks-center"></div>
+                        <div class="mega-toggle-blocks-right">
+                            <div class="mega-toggle-block mega-menu-toggle-animated-block mega-toggle-block-0" id="mega-toggle-block-0">
+                                <button aria-label="Toggle Menu" class="mega-toggle-animated mega-toggle-animated-slider" type="button" aria-expanded="false">
+                                    <span class="mega-toggle-animated-box">
+                                        <span class="mega-toggle-animated-inner"></span>
+                                    </span>
+                                </button>
+                            </div>
+                        </div>
+                    </div>
+                    <ul
+                        id="mega-menu-main"
+                        class="mega-menu max-mega-menu mega-menu-horizontal mega-no-js"
+                        data-event="hover"
+                        data-effect="fade_up"
+                        data-effect-speed="200"
+                        data-effect-mobile="disabled"
+                        data-effect-speed-mobile="0"
+                        data-mobile-force-width="false"
+                        data-second-click="go"
+                        data-document-click="collapse"
+                        data-vertical-behaviour="standard"
+                        data-breakpoint="1364"
+                        data-unbind="true"
+                        data-mobile-state="collapse_all"
+                        data-mobile-direction="vertical"
+                        data-hover-intent-timeout="300"
+                        data-hover-intent-interval="100"
+                    >
+                        {
+                            menu.map((item) => (
+                                <li
+                                    class={`mega-menu-item mega-menu-item-type-custom mega-menu-item-object-custom mega-align-bottom-left mega-menu-flyout mega-menu-item-23159 ${item.href === currentPath ? "mega-current-menu-ancestor" : ""}`}
+                                    id="mega-menu-item-23159"
+                                >
+                                    <a class="mega-menu-link" href={item.href} tabindex="0">
+                                        {item.name}
+                                    </a>
+                                </li>
+                            ))
+                        }
+                    </ul>
+                </div>
+                <!-- Right Info Block -->
+                <div class="header-icons-container">
+                    <!-- <div class="header-icon search-trigger"><span class="search-trigger-icon"></span></div> -->
+                    <div class="header-icon header-button-container"><a class="neuros-button">Contactar<span class="button-inner"></span></a></div>
+                </div>
+            </div>
+        </header>
+    </div>
+</div>
