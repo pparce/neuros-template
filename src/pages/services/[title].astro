@@ -1,0 +1,17 @@
+---
+import PageTitle from "../../components/PageTitle.astro";
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+    // Define las rutas dinámicas que deseas generar.
+    const paths = [{ params: { title: "deep-learning-solutions" } }, { params: { title: "ai-consulting" } }, { params: { title: "ml-modeling" } }];
+
+    return  paths ;
+}
+
+const { title } = Astro.params;
+---
+
+<Layout>
+    <PageTitle title={title} />
+</Layout>
