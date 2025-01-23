@@ -1,0 +1,14 @@
+---
+import Layout from "../../layouts/Layout.astro";
+
+export async function getStaticPaths() {
+    // Define las rutas dinámicas que deseas generar.
+    const paths = [{ params: { title: "deepvision-enhancing-image-recognition-with-neural-networks" } }, { params: { title: "ai-consulting" } }, { params: { title: "ml-modeling" } }];
+
+    return  paths ;
+}
+---
+
+<Layout>
+
+</Layout>

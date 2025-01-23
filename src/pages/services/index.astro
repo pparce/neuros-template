@@ -1,6 +1,7 @@
 ---
-import PageTitle from "../components/PageTitle.astro";
-import Layout from "../layouts/Layout.astro";
+import PageTitle from "../../components/PageTitle.astro";
+import Layout from "../../layouts/Layout.astro";
+
 ---
 
 <Layout>
@@ -90,7 +91,7 @@ import Layout from "../layouts/Layout.astro";
                                                                 >
                                                                     <div class="archive-listing-wrapper service-listing-wrapper service-grid-listing columns-2">
                                                                         <div class="service-item-wrapper post-3477 neuros_service type-neuros_service status-publish hentry">
-                                                                            <div class="service-item">
+                                                                            <a class="service-item">
                                                                                 <div class="service-icon">
                                                                                     <span class="icon"
                                                                                         ><svg viewBox="0 0 102 103" fill="none" xmlns="http://www.w3.org/2000/svg">
@@ -272,7 +273,8 @@ import Layout from "../layouts/Layout.astro";
                                                                                                     <stop offset="1" stop-color="#386BB7"></stop>
                                                                                                 </lineargradient>
                                                                                             </defs>
-                                                                                        </svg></span>
+                                                                                        </svg></span
+                                                                                    >
                                                                                 </div>
                                                                                 <div class="service-item-content">
                                                                                     <h5 class="service-post-title">
@@ -283,7 +285,7 @@ import Layout from "../layouts/Layout.astro";
                                                                                         leverage AI capabilities seamlessly.
                                                                                     </div>
                                                                                 </div>
-                                                                            </div>
+                                                                            </a>
                                                                         </div>
                                                                         <div class="service-item-wrapper post-3101 neuros_service type-neuros_service status-publish hentry">
                                                                             <div class="service-item">
@@ -639,7 +641,8 @@ import Layout from "../layouts/Layout.astro";
                                                                                                     <stop offset="1" stop-color="#386BB7"></stop>
                                                                                                 </lineargradient>
                                                                                             </defs>
-                                                                                        </svg></span>
+                                                                                        </svg></span
+                                                                                    >
                                                                                 </div>
                                                                                 <div class="service-item-content">
                                                                                     <h5 class="service-post-title">
@@ -1015,7 +1018,8 @@ import Layout from "../layouts/Layout.astro";
                                                                                                     <stop offset="1" stop-color="#386BB7"></stop>
                                                                                                 </lineargradient>
                                                                                             </defs>
-                                                                                        </svg></span>
+                                                                                        </svg></span
+                                                                                    >
                                                                                 </div>
                                                                                 <div class="service-item-content">
                                                                                     <h5 class="service-post-title">
@@ -1118,7 +1122,8 @@ import Layout from "../layouts/Layout.astro";
                     >
                         <div class="elementor-container elementor-column-gap-wide">
                             <div
-                                class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7079eb3"
+                                onclick="window.location.href='/services/deep-learning-solutions/'"
+                                class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-7079eb3 cursor-pointer"
                                 data-id="7079eb3"
                                 data-element_type="column"
                                 data-settings='{"background_background":"classic"}'
@@ -1752,7 +1757,8 @@ import Layout from "../layouts/Layout.astro";
                                                                                             ><span class="service-post-title-counter">01</span><span class="service-post-title-text"
                                                                                                 >/Deep learning solutions/&nbsp;</span
                                                                                             ></span
-                                                                                        ></a>
+                                                                                        ></a
+                                                                                    >
                                                                                 </h2>
                                                                             </div>
                                                                         </div>
@@ -1770,7 +1776,8 @@ import Layout from "../layouts/Layout.astro";
                                                                                             ><span class="service-post-title-counter">02</span><span class="service-post-title-text"
                                                                                                 >/Deep learning solutions/&nbsp;</span
                                                                                             ></span
-                                                                                        ></a>
+                                                                                        ></a
+                                                                                    >
                                                                                 </h2>
                                                                             </div>
                                                                         </div>
@@ -1788,7 +1795,8 @@ import Layout from "../layouts/Layout.astro";
                                                                                             ><span class="service-post-title-counter">03</span><span class="service-post-title-text"
                                                                                                 >/Model evaluation/&nbsp;</span
                                                                                             ></span
-                                                                                        ></a>
+                                                                                        ></a
+                                                                                    >
                                                                                 </h2>
                                                                             </div>
                                                                         </div>
@@ -1806,7 +1814,8 @@ import Layout from "../layouts/Layout.astro";
                                                                                             ><span class="service-post-title-counter">04</span><span class="service-post-title-text"
                                                                                                 >/Model evaluation/&nbsp;</span
                                                                                             ></span
-                                                                                        ></a>
+                                                                                        ></a
+                                                                                    >
                                                                                 </h2>
                                                                             </div>
                                                                         </div>
@@ -1849,23 +1858,29 @@ import Layout from "../layouts/Layout.astro";
 </Layout>
 
 <style>
-    h2, .editor-styles-wrapper .block-editor-block-list__layout h2, body .elementor-widget-heading h2.elementor-heading-title {
-                letter-spacing: -0.05em;
-                word-spacing: 0px;
-                font-weight: 400;
-            }
+    h2,
+    .editor-styles-wrapper .block-editor-block-list__layout h2,
+    body .elementor-widget-heading h2.elementor-heading-title {
+        letter-spacing: -0.05em;
+        word-spacing: 0px;
+        font-weight: 400;
+    }
 
-            @media only screen and (min-width: 768px) {
-                h2, .editor-styles-wrapper .block-editor-block-list__layout h2, body .elementor-widget-heading h2.elementor-heading-title {
-                    font-size: 35px;
-                    line-height: 1.16666em;
-                }
-            }
+    @media only screen and (min-width: 768px) {
+        h2,
+        .editor-styles-wrapper .block-editor-block-list__layout h2,
+        body .elementor-widget-heading h2.elementor-heading-title {
+            font-size: 35px;
+            line-height: 1.16666em;
+        }
+    }
 
-            @media only screen and (min-width: 992px) {
-                h2, .editor-styles-wrapper .block-editor-block-list__layout h2, body .elementor-widget-heading h2.elementor-heading-title {
-                    font-size: 60px;
-                    line-height: 1.16666em;
-                }
-            }
+    @media only screen and (min-width: 992px) {
+        h2,
+        .editor-styles-wrapper .block-editor-block-list__layout h2,
+        body .elementor-widget-heading h2.elementor-heading-title {
+            font-size: 60px;
+            line-height: 1.16666em;
+        }
+    }
 </style>
