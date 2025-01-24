@@ -1,5 +1,7 @@
 ---
 const title = Astro.props.title || "";
+const baseRoute = Astro.props.baseRoute || "";
+const baseTitle = Astro.props.baseTitle || "";
 ---
 
 <div class="top-page-wrapper -top-8">
@@ -15,7 +17,7 @@ const title = Astro.props.title || "";
         </div>
         <div class="breadcrumbs-wrapper text-white">
             <nav class="breadcrumbs">
-                <a href="./../index.html">Home</a>
+                <a href={baseRoute}>{baseTitle}</a>
                 <span class="delimiter"></span>
                 <span class="current">{title}</span>
             </nav>
